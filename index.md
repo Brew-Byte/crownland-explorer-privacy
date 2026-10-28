@@ -52,6 +52,26 @@ The app requests the following device permission:
 
 - **Location (While Using the App)** — only when you tap **My location**, used only to centre the map. Never requested at launch, and never used in the background.
 
+## Your Choices
+
+- **Location** — you can turn location access off at any time in **Settings → Privacy & Security → Location Services → Crown Land**. The app keeps working without it.
+- **Saved places** — swipe to delete any saved place in the app.
+- **Delete everything** — deleting the app removes all of its data from your device.
+
+Because BrewByte holds no data about you, there is nothing for us to access, correct or delete on request.
+
+## Sharing and Sale of Data
+
+We do not sell, rent, or share personal information with anyone. We don't have any to share.
+
+## Security
+
+All requests to the Government of Ontario's map service are sent over encrypted HTTPS connections. Data stored by the app stays on your device and is protected by iOS.
+
+## Links to Other Websites
+
+The app links to official websites, such as ontario.ca, the RCMP, and land-use policy reports. Those websites are not operated by BrewByte and have their own privacy policies.
+
 ## Affiliation
 
 Crown Land Explorer is an independent, third-party app developed by BrewByte. It is not made, affiliated with, or endorsed by the Government of Ontario, the Ministry of Natural Resources, Ontario Parks, any municipality, or the RCMP. Map data is used under the [Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario).
